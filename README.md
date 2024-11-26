@@ -25,8 +25,7 @@ const shenhuang = {
     askMeAbout: ["Google Ads", "tech leadership", "product management", "travel tech", "generative AI"],
     currentRole: {
         company: "Google",
-        title: "Tech Lead",
-        teams: ["Google Ads", "Google Flights", "Google Hotels"],
+        teams: ["Google Ads", "Google Flights", "Google Hotels", "AI Overview"],
     },
     personalProjects: [
         {
