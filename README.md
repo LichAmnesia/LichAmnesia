@@ -21,7 +21,19 @@
 - [**LLM Engineering Handbook**](https://github.com/LichAmnesia/llm-engineering-handbook)  
   A comprehensive guide to engineering with large language models.
 
-  
+### Recent Blog Posts
+- [**How to Successfully Land Projects at Big Tech**](https://shenhuang.substack.com/p/how-to-successfully-land-projects?r=b1ihf)  
+  Insights and strategies to secure impactful projects.
+
+- [**Scaling People: Insights from Claire**](https://shenhuang.substack.com/p/scaling-people-insights-from-claire?r=b1ihf)  
+  Lessons on empowering teams and driving growth.
+
+- [**What Happens When You Accidentally Email Steve Jobs about a Job at Google?**](https://shenhuang.substack.com/p/what-happens-when-you-accidentally?r=b1ihf)  
+  Reflections on mistakes and their unexpected outcomes.
+
+- [**The Art of Doing Science and Engineering**](https://shenhuang.substack.com/p/the-art-of-doing-science-and-engineering?r=b1ihf)  
+  Key takeaways from Richard Hamming’s timeless book.
+
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
