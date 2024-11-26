@@ -8,7 +8,20 @@
 ![GitHub followers](https://img.shields.io/github/followers/LichAmnesia?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://alwa.info/)](https://alwa.info/)
 
+### Personal Projects
+- [**Job Seeker Tools**](https://jobseekertools.com)  
+  Tools and resources to help job seekers succeed in their career journey.
 
+- [**OrangeBot AI**](https://orangebot.ai)  
+  An AI-driven platform providing advanced information tools and insights.
+
+- [**AI Developerfy**](https://aidevelopify.org)  
+  A directory and resources hub for developers building with AI technologies.
+
+- [**LLM Engineering Handbook**](https://github.com/LichAmnesia/llm-engineering-handbook)  
+  A comprehensive guide to engineering with large language models.
+
+  
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
