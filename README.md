@@ -4,7 +4,7 @@
 </em></p>
 
 [![X Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/intent/follow?screen_name=shenhuang_)
-[![Linkedin: shenhuang](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lichamnesia/)](https://www.linkedin.com/in/lichamnesia/)
+[![Linkedin: shenhuang](https://img.shields.io/badge/-shenhuang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lichamnesia/)](https://www.linkedin.com/in/lichamnesia/)
 ![GitHub followers](https://img.shields.io/github/followers/LichAmnesia?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://alwa.info/)](https://alwa.info/)
 
