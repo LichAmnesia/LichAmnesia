@@ -3,23 +3,30 @@
 <p><em>Tech Lead @Google Ads. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+
 [![X Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/intent/follow?screen_name=shenhuang_)
 [![Linkedin: shenhuang](https://img.shields.io/badge/-shenhuang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lichamnesia/)](https://www.linkedin.com/in/lichamnesia/)
 ![GitHub followers](https://img.shields.io/github/followers/LichAmnesia?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://alwa.info/)](https://alwa.info/)
 
-### Personal Projects
-- [**Job Seeker Tools**](https://jobseekertools.com)  
-  Tools and resources to help job seekers succeed in their career journey.
 
-- [**OrangeBot AI**](https://orangebot.ai)  
-  An AI-driven platform providing advanced information tools and insights.
+## 🚀 Current Projects & Open Source
 
-- [**AI Developerfy**](https://aidevelopify.org)  
-  A directory and resources hub for developers building with AI technologies.
+- 🐧 **[peepbo](https://github.com/LichAmnesia/peepbo)** - Peepbo for Linux, built with Node.js & TypeScript.
+- 💼 **[Job Seeker Tools](https://jobseekertools.com)** - Tools and resources to help job seekers succeed in their career journey.
+- 🍊 **[OrangeBot AI](https://orangebot.ai)** - An AI-driven platform providing advanced information tools and insights.
+- 🌟 **[GPT-Prompt-Hub](https://github.com/LichAmnesia/GPT-Prompt-Hub)** - An open-source community for sharing and refining custom GPT prompts.
+- 📦 **[Stashlog](https://github.com/LichAmnesia/Stashlog)** - A premium content platform built with Next.js and Firebase for creators.
+- 📘 **[LLM Engineering Handbook](https://github.com/LichAmnesia/llm-engineering-handbook)** - A comprehensive guide to engineering with large language models.
+- ⚡ **[parallax](https://github.com/LichAmnesia/parallax)** - Distributed model serving framework for building AI clusters anywhere.
+- 📄 **[Resume Matcher](https://github.com/LichAmnesia/Resume-Matcher)** - AI tool to compare and rank resumes against job descriptions.
 
-- [**LLM Engineering Handbook**](https://github.com/LichAmnesia/llm-engineering-handbook)  
-  A comprehensive guide to engineering with large language models.
 
 ### Recent Blog Posts
 - [**How to Successfully Land Projects at Big Tech**](https://shenhuang.substack.com/p/how-to-successfully-land-projects?r=b1ihf)  
@@ -40,65 +47,3 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://calendly.com/me-alwa" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-
-### A little more about me...  
-
-```javascript
-const shenhuang = {
-    pronouns: "He" | "Him",
-    code: ["Python", "Java", "TypeScript", "SQL"],
-    askMeAbout: ["Google Ads", "tech leadership", "product management", "travel tech", "generative AI"],
-    currentRole: {
-        company: "Google",
-        teams: ["Google Ads", "Google Flights", "Google Hotels", "AI Overview"],
-    },
-    personalProjects: [
-        {
-            name: "Job Seeker Tools",
-            url: "https://jobseekertools.com",
-            description: "Tools and resources to help job seekers succeed in their career journey.",
-        },
-        {
-            name: "OrangeBot AI",
-            url: "https://orangebot.ai",
-            description: "An AI-driven platform providing advanced trading tools and insights.",
-        },
-        {
-            name: "AI Developerfy",
-            url: "https://aidevelopify.org",
-            description: "A directory and resources hub for developers building with AI technologies.",
-        },
-        {
-            name: "LLM Engineering Handbook",
-            url: "https://github.com/LichAmnesia/llm-engineering-handbook",
-            description: "A comprehensive guide to engineering with large language models.",
-        },
-    ],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Material UI"],
-        },
-        backEnd: {
-            python: ["Flask", "FastAPI"],
-            java: ["Spring Boot"],
-        },
-        cloudServices: {
-            googleCloud: ["BigQuery", "Cloud Functions", "Firestore", "Cloud Run", "Pub/Sub"],
-            aws: ["S3", "EC2"],
-        },
-        devOps: ["Docker🐳", "Kubernetes", "GitHub Actions", "Cloud Build"],
-        databases: ["PostgreSQL", "Bigtable", "Firebase Realtime DB", "redis"],
-        misc: ["REST APIs", "GraphQL", "WebSockets", "Data Pipelines"],
-        generativeAI: ["GPT", "Vector Search", "LangChain"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Terraform"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Driving innovation in travel tech and generative AI solutions.",
-    funFact: "I built my first travel-related project during a 48-hour hackathon, and it’s been my passion ever since!",
-};
-```
