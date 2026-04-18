@@ -3,7 +3,7 @@
 Engineer at **Google**. Sunnyvale, CA.
 I build open-source tooling for coding agents — skills, evaluators, and automation for the humans who sit next to them.
 
-[![X](https://img.shields.io/badge/@ShenHuang__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ShenHuang_)
+[![X](https://img.shields.io/badge/@ShenHuang-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ShenHuang)
 [![Website](https://img.shields.io/badge/alwa.info-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://alwa.info/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lichamnesia/)
 [![Substack](https://img.shields.io/badge/essays-FF6719?style=flat-square&logo=substack&logoColor=white)](https://shenhuang.substack.com/)
